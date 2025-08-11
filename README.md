@@ -1,6 +1,4 @@
-
-
- Olá! 👋
+# Olá! 👋
 
 - Desenvolvedor FullStack ☕
 - LinkedIn: [Pedro Wippwl](https://www.linkedin.com/in/pedrowippwldev)
@@ -19,3 +17,9 @@
 ## WIPPWL's GitHub Stats
 
 ![WIPPWL's GitHub stats](https://github-readme-stats.vercel.app/api?username=WIPPWL&show_icons=true&theme=radical)
+
+---
+
+## Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WIPPWL&layout=compact&theme=radical)
